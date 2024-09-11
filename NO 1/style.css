@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0%;
+
+}
+.container{
+width: 100%;
+min-height: 100vh;
+
+}
+body{
+    background-image:url(plane.jpg.jpeg); width: 100%; height: 100%;
+image-resolution: 1080 px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin: 15px 20px ;
+    
+
+    }
+
+    nav ul li{
+        padding: 10px 50px;
+        font-style: initial;
+    
+    }
+    .btn{
+        width: 80px; height: 50px;
+        display: flex;
+    margin: 15px 20px;
+    float: right;
+    color: aquamarine;
+    
+   
+    }
+    .content{
+        margin: 0px 3%;
+        color: rgb(255, 185, 8);
+    }
+    nav{
+        margin: 50px;
+    }
+    .prg{
+        color: aliceblue;
+    }
+    li:hover{
+    color: red;
+    }
+    ul{
+        color: aqua;
+    }
+    
+    
+    
